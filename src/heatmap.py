@@ -46,7 +46,8 @@ def create_heatmap(dataframe):
     fig, ax = plt.subplots(figsize=(14,14)) 
 
     hmap = sns.heatmap(data=dataframe, ax=ax)
-    #hmap.set_xticklabels(hmap.get_xticklabels(), rotation=45)
+    hmap.set_xticklabels(hmap.get_xticklabels(), rotation=45)
+    hmap.set_yticklabels(hmap.get_yticklabels(), rotation=45)
     fig = hmap.get_figure()
     fig.savefig("out-e.jpg", format="jpg", dpi=500) 
 
