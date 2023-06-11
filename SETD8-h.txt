@@ -1,0 +1,11 @@
+queried-c.elegans-SETD8.faa hits: 30
+queried-ciliate-SETD8.faa hits: 15
+queried-drosophila-SETD8.faa hits: 35
+queried-e.coli-SETD8.faa hits: 1
+queried-human-SETD8.faa hits: 214
+queried-methanocaldococcus-SETD8.faa hits: 4
+queried-mouse-SETD8.faa hits: 247
+queried-thermococcus-SETD8.faa hits: 7
+queried-tuberculosis-SETD8.faa hits: 5
+queried-yeast-SETD8.faa hits: 4
+queried-zebrafish-SETD8.faa hits: 117

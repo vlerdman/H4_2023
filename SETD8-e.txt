@@ -1,0 +1,11 @@
+queried-c.elegans-SETD8.faa e-value: 3.50e-49
+queried-ciliate-SETD8.faa e-value: 1.53e-10
+queried-drosophila-SETD8.faa e-value: 1.58e-60
+queried-e.coli-SETD8.faa e-value: 2.7
+queried-human-SETD8.faa e-value: 0.0
+queried-methanocaldococcus-SETD8.faa e-value: 3.8
+queried-mouse-SETD8.faa e-value: 0.0
+queried-thermococcus-SETD8.faa e-value: 0.91
+queried-tuberculosis-SETD8.faa e-value: 0.61
+queried-yeast-SETD8.faa e-value: 4.45e-10
+queried-zebrafish-SETD8.faa e-value: 8.31e-104
