@@ -1,0 +1,12 @@
+            Organism    Protein    E-value -log((e-value)
+           c.elegans      PRMT5   1.19e-99 98.92445303860747
+             ciliate      PRMT5   3.78e-07 6.422508200162775
+          drosophila      PRMT5  5.79e-142 141.23732143627257
+              e.coli      PRMT5      0.013 1.8860566476931633
+               human      PRMT5     1e-300      300.0
+  methanocaldococcus      PRMT5   2.38e-05 4.623423042943488
+               mouse      PRMT5     1e-300      300.0
+        thermococcus      PRMT5       0.53 0.27572413039921095
+        tuberculosis      PRMT5       0.33 0.4814860601221125
+               yeast      PRMT5   2.41e-71 70.61798295742513
+           zebrafish      PRMT5     1e-300      300.0

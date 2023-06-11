@@ -50,7 +50,7 @@ def create_heatmap(dataframe):
     hmap.set_yticklabels(hmap.get_yticklabels(), rotation=45)
     fig = hmap.get_figure()
     fig.savefig("out-e.jpg", format="jpg", dpi=500) 
-
-df = prepare_dataset(sys.argv[1])
-create_heatmap(df)
-print(df)
+if __name__ == "__main__":
+    df = prepare_dataset(sys.argv[1])
+    create_heatmap(df)
+    print(df)
