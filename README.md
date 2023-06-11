@@ -8,4 +8,12 @@
 ![hits-heatmap](images/out-h.jpg)
 
 Индивидуальные результаты приведены ниже этой секции в личных репозиториях участников группы.
-@@include[table.md](data/table.md)
+
+Таблица с e-value по PRMT-5 [table.md](data/table.md)
+
+Исходные данные по PRMT5 приведены в [папке data](data/)
+
+Тепловая карта по PRMT5:
+![e-value-heatmap](images/krechetov-e.jpg)
+
+
